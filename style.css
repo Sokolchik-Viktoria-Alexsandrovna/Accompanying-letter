@@ -1,0 +1,34 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+body {
+    font-family: Roboto, sans-serif;
+}
+
+
+
+.resume {
+    max-width: 1500px;
+    margin: 50px;
+    display: flex;
+}
+
+
+
+.resume_left {
+    width: 400px;
+    padding-right: 50px;
+    float: left;
+}
+
+.resume_right {
+    width: auto;
+    float: right;
+}
+
+.resume_photo img {
+    max-width: 250px;
+}
